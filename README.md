@@ -4,7 +4,7 @@ Hi 👋 My name is Abhinav Tripathi
 Frontend Developer
 ------------------
 
-I have 8 months of experience building and designing software. Currently, I love to work on web applications using technologies like React, Tailwind, Next JS, and MaterialUI.
+I have 1 year of experience building and designing software. Currently, I love to work on web applications using technologies like React, Tailwind, Next JS, and MaterialUI.
 
 * 🌍  I'm based in Pratapgarh, Uttar Pradesh, India
 * 🖥️  See my portfolio at [Abhinav Tripathi](http://abhinavt-portfolio.netlify.app/)
